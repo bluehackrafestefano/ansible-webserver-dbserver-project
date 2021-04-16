@@ -1,0 +1,4 @@
+[servers]
+db_server   ansible_host=172.31.43.135   ansible_user=ec2-user  ansible_ssh_private_key_file=~/rafeNvirginia.pem
+web_server  ansible_host=172.31.42.198  ansible_user=ec2-user  ansible_ssh_private_key_file=~/rafeNvirginia.pem
+test_server  ansible_host=172.31.23.96  ansible_user=ec2-user  ansible_ssh_private_key_file=~/rafeNvirginia.pem
